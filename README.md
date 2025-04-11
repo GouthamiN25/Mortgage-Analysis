@@ -1,7 +1,7 @@
 # Mortgage-Analysis | Data Analysis
 
 
-![Uploading Screenshot 2025-04-10 at 6.40.53 PM.png…]()
+<img width="789" alt="Screenshot 2025-04-10 at 6 40 53 PM" src="https://github.com/user-attachments/assets/215681dd-7459-4c56-9da1-d55a24baea5b" />
 
 
 
