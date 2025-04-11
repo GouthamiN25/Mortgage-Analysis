@@ -1,5 +1,10 @@
 # Mortgage-Analysis | Data Analysis
 
+
+![Uploading Screenshot 2025-04-10 at 6.40.53 PM.png…]()
+
+
+
 # 🏠Introduction
 This project focuses on analyzing a large dataset of U.S. consumer mortgage complaints sourced from the Consumer Financial Protection Bureau (CFPB). By applying data science techniques, the goal is to identify key complaint trends, understand consumer pain points, and support actionable insights for improving customer service in the mortgage industry.
 
